@@ -10,3 +10,4 @@
 * fund.ts - get funds airdropped from dev net for starting account activities
 * balance.ts -  get balance for public address 
 * transfer.ts  - [connection,transaction,signers] transaction => fromPUB, toPUB, lamports
+* checkProgram.ts - to check if program is deployed - Input ProgramID 
